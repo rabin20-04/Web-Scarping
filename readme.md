@@ -30,7 +30,7 @@ git clone https://github.com/rabin20-04/Web-Scarping.git
 ```
 
 ## -----------------------------
-# Web scarping 
+# Web scraping 
 - ### Import 
 - ### Test result I 
 - ### Test result II 
